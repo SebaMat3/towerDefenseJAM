@@ -4,12 +4,12 @@
 [ext_resource type="Texture2D" uid="uid://dpwdoh0178c2p" path="res://Assets/PNG/towerDefense_tile251.png" id="2_bc13n"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_7nvav"]
-radius = 9.0
+radius = 6.0
 height = 34.0
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_xs4yy"]
 radius = 12.0
-height = 44.0
+height = 48.0
 
 [node name="RedBullet" type="CharacterBody2D"]
 script = ExtResource("1_fb8ep")
